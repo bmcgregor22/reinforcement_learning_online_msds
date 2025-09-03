@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 02
+## DS 5004 - Applied Reinforcement Learning: Agenda 02
 
 
 
