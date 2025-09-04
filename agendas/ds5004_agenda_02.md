@@ -4,7 +4,7 @@
 
 ### Admin Items
 
-- Class next week to be held during office hours Sep 9th in place of Sep 11th
+- Class next week to be held during office hours Sep 9th from 8pm-9pm ET in place of Sep 11th
 
 ---
 
