@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 03
+## DS 5004 Machine Learning IV - Reinforcement Learning: Agenda 03
 
 
 
