@@ -8,9 +8,9 @@
 
 Due Friday, Sep 26, 2025 at 11:59pm ET:
 
-> Journaling: Modules 1-3 completed.
-> Quiz: Bandit Problems, Dynamic Programming, and Monte Carlo Approaches.
-> Lab: Value Iteration.
+- Journaling: Modules 1-3 completed.
+- Quiz: Bandit Problems, Dynamic Programming, and Monte Carlo Approaches.
+- Lab: Value Iteration.
 
 ---
 
