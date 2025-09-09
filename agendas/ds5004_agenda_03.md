@@ -35,3 +35,4 @@ Due Friday, Sep 26, 2025 at 11:59pm ET:
     - return (gains process) is sum of rewards
     - discounting
 
+- [Time permitting]: Review the Value Iteration [lab](https://github.com/UVADS/reinforcement_learning_online_msds/blob/main/03_solving_mdps/lab_value_iteration_grid_world.ipynb)
