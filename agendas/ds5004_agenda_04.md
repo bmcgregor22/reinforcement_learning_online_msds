@@ -26,5 +26,5 @@ Due Friday, Sep 26, 2025 at 11:59pm ET:
     - Value Iteration
     - Generalized Policy Iteration
 
-- Review notebook: Approaches to Solving MDPs II: Monte Carlo Simulation (up to but excluding Blackjack Simulator)
+- Review notebook: Approaches to Solving MDPs II - Monte Carlo Simulation (up to but excluding Blackjack Simulator)
 
