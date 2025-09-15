@@ -26,7 +26,5 @@ Due Friday, Sep 26, 2025 at 11:59pm ET:
     - Value Iteration
     - Generalized Policy Iteration
 
-- Short lab: exercises_robot to compute best path on a tree
-
 - Review notebook: Approaches to Solving MDPs II: Monte Carlo Simulation (up to but excluding Blackjack Simulator)
 
