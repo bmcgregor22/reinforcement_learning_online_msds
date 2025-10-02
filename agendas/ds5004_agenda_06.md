@@ -29,6 +29,8 @@ Due Friday, Oct 10, 2025 at 11:59pm ET:
   - Q-learning
 
 - Review slides: summary_of_solution_concepts
+- Review lab: Cliff Walk
+- Start reviewing Q-learning notebook
 
 
 
