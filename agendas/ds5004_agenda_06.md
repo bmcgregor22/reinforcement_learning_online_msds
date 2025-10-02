@@ -10,9 +10,9 @@ If you'd like office hours, please email to find time
 
 ### Upcoming Deliverables
 
-Due Friday, Sep 26, 2025 at 11:59pm ET:  
-Project Proposal due Oct 3, 2025 at 11:59pm ET
-
+Due Friday Oct 3, 2025 at 11:59pm ET
+- Project Proposal
+- 
 Due Friday, Oct 10, 2025 at 11:59pm ET:  
 - Quiz: TD learning, Q-learning
 - Lab: Cliff Walk
