@@ -3,7 +3,7 @@
 
 ### Admin Items
 
-Class next week will take place during office hrs: Tues, Oct 7th 8pm-9pm ET  
+Class next week will take place during office hrs: Tues, Oct 7th from 8pm-9pm ET  
 If you'd like office hours, please email to find time
 
 ---
