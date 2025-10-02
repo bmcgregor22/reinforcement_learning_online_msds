@@ -1,4 +1,4 @@
-## DS 5004 Applied Reinforcement Learning: Agenda 05
+## DS 5004 Applied Reinforcement Learning: Agenda 06
 
 
 ### Admin Items
