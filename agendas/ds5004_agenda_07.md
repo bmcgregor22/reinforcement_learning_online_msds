@@ -3,9 +3,9 @@
 
 ### Admin Items
 
-> In next week's class we will review and discuss: "Playing Atari with Deep Reinforcement Learning." Link to paper and discussion questions in repo module 5.
+- In next week's class we will review and discuss: "Playing Atari with Deep Reinforcement Learning." Link to paper and discussion questions in repo module 5.
 
-> Will review and respond to project proposals by 10/10
+- Will review and respond to project proposals by 10/10
 
 ---
 
