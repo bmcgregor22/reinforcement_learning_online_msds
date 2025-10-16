@@ -16,7 +16,8 @@ Due Friday, Oct 24, 2025 at 11:59pm ET:
 - Journaling: Modules 1-6 completed  
 
 Due Friday, Oct 31, 2025 at 11:59pm ET:  
-- Lab: Dueling Network Lunar Lander
+- Lab: Dueling Network Lunar Lander  
+- Quiz 5: Deep Q-Networks and Extensions 2
 
 
 ---
