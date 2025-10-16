@@ -3,17 +3,17 @@
 
 ### Admin Items
 
-Reading for discussion next week:
--Prioritized Experience Replay. Pages 1-8 through discussion.
--Deep Reinforcement Learning with Double Q-learning
+Reading for discussion next week:  
+-Prioritized Experience Replay. Pages 1-8 through discussion.  
+-Deep Reinforcement Learning with Double Q-learning  
 
 ---
 
 ### Upcoming Deliverables
 
 Due Friday, Oct 24, 2025 at 11:59pm ET:  
--Quiz 4: Deep Q-Networks and Extensions 1
--Journaling: Modules 1-6 completed
+- Quiz 4: Deep Q-Networks and Extensions 1  
+- Journaling: Modules 1-6 completed  
 
 Due Friday, Oct 31, 2025 at 11:59pm ET:  
 - Lab: Dueling Network Lunar Lander
