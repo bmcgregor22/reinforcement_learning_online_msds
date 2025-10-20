@@ -3,6 +3,12 @@
 
 ---
 
+### Admin Items
+
+- Read for discussion in next live session: Deep Reinforcement Learning for Sepsis Treatment
+
+---
+
 ### Upcoming Deliverables
 
 Due Friday, Oct 24, 2025 at 11:59pm ET:  
