@@ -18,3 +18,5 @@ Due Friday, Oct 31, 2025 at 11:59pm ET:
 - Discuss paper: Deep Reinforcement Learning for Sepsis Treatment
 
 - Distributed RL Background: Actor-Learner
+
+- Review Policy Gradients notebook 
