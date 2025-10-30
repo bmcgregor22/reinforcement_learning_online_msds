@@ -1,5 +1,10 @@
 ## DS 5004 Applied Reinforcement Learning: Agenda 10
 
+---
+
+### Admin Items
+
+Election Day on Tues, Nov 4th. No office hours.
 
 ---
 
