@@ -13,7 +13,9 @@
 
 ### Content
 
-- Review Policy Gradients notebook 
+- Review Policy Gradients notebook
+  - Reinforce
+  - Cost to go 
 
 - Extensions of [Policy Gradient](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/policy_gradients_extensions.ppt)
   - Baselines
