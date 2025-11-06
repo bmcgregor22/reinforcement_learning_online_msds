@@ -3,6 +3,10 @@
   
 ---
 
+### Admin Items
+
+- For class Thurs, Nov 13th, it will be changed to Tues Nov 11th during Office Hours 8pm-9pm ET.
+
 ### Upcoming Deliverables, Due Nov 14 at 11:59pm ET.
 
 - Lab 5: Cart Pole 2 with Policy Gradients
