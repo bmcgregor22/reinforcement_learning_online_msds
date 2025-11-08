@@ -17,7 +17,7 @@
 ### Content
 
 - Extensions of [Policy Gradient](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/policy_gradients_extensions.ppt)
-- PPO
-- DDPG from Policy Gradient Extensions
+  - PPO
+  - DDPG from Policy Gradient Extensions
 
 - World Models
