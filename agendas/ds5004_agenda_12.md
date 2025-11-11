@@ -21,3 +21,5 @@
   - DDPG from Policy Gradient Extensions
 
 - World Models
+  - Review slides and [blog](https://worldmodels.github.io/)
+  - Review code demo
